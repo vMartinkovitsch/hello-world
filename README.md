@@ -1,4 +1,3 @@
 # hello-world
 
-Hello, biridin
-É nóiz no Github
+Hello World!
